@@ -25,8 +25,14 @@ Some of the tasks will require you to have a basic understanding of the followin
 ## Additional Resources
 
 You can use the following resources to learn more about the concepts and can also challenge yourself by trying out some of the problems on these websites.
+You can also use other resources that you find online.
 
 - HTML, CSS, JavaScript: [W3Schools](https://www.w3schools.com/) 
 - Python: [HackerRank](https://www.hackerrank.com/domains/python)
 - Linux: [HackerRank,](https://www.hackerrank.com/domains/shell) [OverTheWire](https://overthewire.org/wargames/bandit/) 
 - Git: [W3Schools](https://www.w3schools.com/git/git_exercises.asp)
+
+<br>
+<br>
+
+> **Note:** This section is compulsory, especially Git, as it will be used to submit your tasks.
