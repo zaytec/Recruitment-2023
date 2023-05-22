@@ -23,7 +23,11 @@ Our vision is to create a community of developers, designers, and tech enthusias
 
 <br/><br/>
 
-Now we can discuss about tasks, All the tasks are sperated into different domains and all the tasks description are in respective folders. The domain are as follows:
+Now, let's talk about the tasks.<br/>
+First and foremost, I'd like to introduce our theme: Ramayana.<br/>
+All the tasks revolve around this theme.<br/>
+You can find all the necessary instructions below or by [clicking here](https://github.com/CCube-Club/Recruitment-2023/blob/main/README.md#instrunctions).<br/>
+The tasks are categorized into different domains, each with its own folder. The domains are as follows:
 
 ## [Getting Started](https://github.com/CCube-Club/Recruitment-2023/tree/ba3737490fb82eb78f1427f9d3cb1a64312d9472/Getting%20Started)
 
@@ -66,3 +70,12 @@ S. No. | Task Name | Difficulty | Go to folder
 Task - 01 | Translator | Easy | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/ba3737490fb82eb78f1427f9d3cb1a64312d9472/Web%20Tasks/Translator%20CCube%20Easy)
 Task - 02 | Flower for Sita | Medium | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/ba3737490fb82eb78f1427f9d3cb1a64312d9472/Web%20Tasks/Flower%20for%20Sita%20CCube%20Medium)
 Task - 04 | Doorbhash | Hard | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/ba3737490fb82eb78f1427f9d3cb1a64312d9472/Web%20Tasks/Doorbhash%20CCube%20Hard)
+
+## Instructions
+
+- All the tasks are theme-based, centered around the Ramayana.
+- The selection criteria differ for participants; the criteria are as follows:
+    - 1st Year - Participants need to complete all the easy and medium tasks. [Completing more tasks is always appreciated.]
+    - 2nd Year - Participants need to complete all the easy and medium tasks, and at least one hard task from the domain in which they are willing to progress.
+    - 3rd Year - Participants need to complete all the easy and medium tasks, and at least two hard tasks from the domain in which they are willing to progress.
+- All these tasks must be submitted before the deadline.
