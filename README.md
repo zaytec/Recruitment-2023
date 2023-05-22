@@ -55,7 +55,7 @@ We have hosted a contest on hacker Rank for CP Corner. The contest is live now. 
 
 ## [Cyber Security Corner](https://github.com/CCube-Club/Recruitment-2023/tree/ba3737490fb82eb78f1427f9d3cb1a64312d9472/Cyber%20Security%20Corner)
 
-This category contains four tasks: one easy, two medium and one hard
+This category contains four tasks: two easy, two medium and one hard
 
 S. No. | Task Name | Difficulty | Go to folder
 --- | --- | --- | --- |
