@@ -1,5 +1,8 @@
 # CCube Developer Club Recruitment 2023
 
+![img](https://encyclopediaofjainism.com/wp-content/uploads/2020/06/ram-sita.webp)
+
+
 ## Introduction
 Hello Peeps, and welcome to the Recruitment 2023 of CCube Developer Club. <br/>
 We are so excited to have you here. Looking forward to working with you and getting to know you better.<br/>
@@ -26,7 +29,7 @@ Our vision is to create a community of developers, designers, and tech enthusias
 Now, let's talk about the tasks.<br/>
 First and foremost, I'd like to introduce our theme: Ramayana.<br/>
 All the tasks revolve around this theme.<br/>
-You can find all the necessary instructions below or by [clicking here](https://github.com/CCube-Club/Recruitment-2023/blob/main/README.md#instrunctions).<br/>
+You can find all the necessary instructions below or by [clicking here](https://github.com/CCube-Club/Recruitment-2023/blob/main/README.md#instructions).<br/>
 The tasks are categorized into different domains, each with its own folder. The domains are as follows:
 
 ## [Getting Started](https://github.com/CCube-Club/Recruitment-2023/tree/ba3737490fb82eb78f1427f9d3cb1a64312d9472/Getting%20Started)
