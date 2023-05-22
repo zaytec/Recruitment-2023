@@ -60,7 +60,7 @@ This category contains four tasks: two easy, two medium and one hard
 S. No. | Task Name | Difficulty | Go to folder
 --- | --- | --- | --- |
 Task - 01 | `mov stone, ocean` | Easy | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/ba3737490fb82eb78f1427f9d3cb1a64312d9472/Cyber%20Security%20Corner/mov%20stone%2C%20ocean-CCube-Easy)
-Task - 02 | How Many? | Easy | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/5cd272b8461580cfadeffa019420d7d778982850/Cyber%20Security%20Corner/How%20many-CCube-Easy)
+Task - 02 | How Many? | Easy | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/af08c9de9592d7fa638447c64346204692766b53/Cyber%20Security%20Corner/How%20many-CCube-Easy)
 Task - 03 | Ashok Vatika | Medium | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/ba3737490fb82eb78f1427f9d3cb1a64312d9472/Cyber%20Security%20Corner/Ashok%20Vatika-CCube-Medium)
 Task - 04 | Secret of Ravan | Medium | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/ba3737490fb82eb78f1427f9d3cb1a64312d9472/Cyber%20Security%20Corner/Secret%20of%20Ravan-CCube-Medium)
 Task - 05 | A Letter to Sita | Hard | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/ba3737490fb82eb78f1427f9d3cb1a64312d9472/Cyber%20Security%20Corner/A%20Letter%20To%20Sita-Ccube-Hard)
