@@ -13,3 +13,4 @@ While Shri Ram and Sita Ma were in Exile, Ravan came and kidnapped Sita. When Sh
 - Use the Test folder to find your set of predictions and make a CSV file with those predictions. We will check your prediction of yours and check the accuracy of your model according to those predictions.
 - Add your Model code here as well.
 - Don’t use a VANILLA pre-trained model for this task. If someone uses one, they would be disqualified without further consideration.
+- Download the Dataset by going [here](https://drive.google.com/drive/folders/1EZmSc4aFV0jq7011qd9OXaFtcSqp6jG7?usp=share_link)
