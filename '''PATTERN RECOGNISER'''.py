@@ -1,7 +1,7 @@
 '''PATTERN RECOGNISER'''
 lst = input("Enter your pattern: ").strip().split(',')
 pattern_list=[]
-for i in range(len(lst)):
+for i in range(len(lst)//2):
     pattern_list=lst[:i+1]
     repeated = len(lst)//len(pattern_list)
 
