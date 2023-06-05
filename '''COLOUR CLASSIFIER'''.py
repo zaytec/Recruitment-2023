@@ -1,23 +1,18 @@
 '''COLOUR CLASSIFIER'''
-def classify(rgb):
-    red_range = range(170, 255)
-    blue_range = range(0, 86)
-    green_range = range(0, 86)
-    r,g,b=rgb
+def classify(r,g,b):
 
-    if r in red_range and b in blue_range and g in green_range:
+    if r in range(200,300) and b in range(100,200) and g in range(0,100):
         return 'Red'
-    elif b in red_range and r in blue_range and g in green_range:
+    elif b in range(200,300) and r in range(100,200) and g in range(0,100):
         return 'Blue'
-    elif g in red_range and b in blue_range and r in green_range:
+    elif g in range(200,300) and b in range(100,200) and r in range(0,100):
         return 'green'
     else:
         return "unclassified"
     
-r=int(input("Enter the values for red (0-255):"))
-b=int(input("Enter the values for blue (0-255):"))
-g=int(input("Enter the values for green (0-255):"))
+r=int(input("Enter the values for red (0-300):"))
+b=int(input("Enter the values for blue (0-300):"))
+g=int(input("Enter the values for green (0-300):"))
 
-rgb = r,g,b
-classification=classify(rgb)
-print("The color is:",classification)
+x=classify(r,g,b)
+print("The color is:",x)
