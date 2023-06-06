@@ -10,9 +10,9 @@ def classify(r,g,b):
     else:
         return "unclassified"
     
-r=int(input("Enter the values for red (0-300):"))
-b=int(input("Enter the values for blue (0-300):"))
-g=int(input("Enter the values for green (0-300):"))
+r=int(input("Enter the values for red (200-300):"))
+b=int(input("Enter the values for blue (100-200):"))
+g=int(input("Enter the values for green (0-100):"))
 
 x=classify(r,g,b)
 print("The color is:",x)
