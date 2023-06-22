@@ -12,7 +12,7 @@ segment .data
    m2 db "How many kilometers to build:", 0xA,0xD 
    l2 equ $- m2 
 
-   m3 db "The amoutnof stones required: "
+   m3 db "The amount of stones required: "
    l3 equ $- m3
 
 segment .bss
